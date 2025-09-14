@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TIME.IR - ساعت و تقویم ایران',
-  description: 'وب سایت ساعت و تقویم ایران - Persian Calendar and Time',
+  title: 'TIME.AF - ساعت و تقویم افغانستان',
+  description: 'وب سایت ساعت و تقویم افغانستان - Afghanistan Calendar and Time',
 };
 
 export default function RootLayout({
